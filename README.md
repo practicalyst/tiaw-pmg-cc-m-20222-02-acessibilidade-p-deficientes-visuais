@@ -7,7 +7,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Pedro Henrique de Magalhães Honorato
 * Lucas Gabriel Aparecido dos Santos
 * Arthur Faria de Paula
-* Nome completo do aluno 4
+* Isabella Luiza Dias dos Santos
 
 ## Professores responsáveis
 
