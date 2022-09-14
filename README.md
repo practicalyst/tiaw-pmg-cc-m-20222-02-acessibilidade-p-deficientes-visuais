@@ -8,6 +8,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Lucas Gabriel Aparecido dos Santos
 * Arthur Faria de Paula
 * Isabella Luiza Dias dos Santos
+* Ana Cristina Martins Silva
 
 ## Professores responsáveis
 
