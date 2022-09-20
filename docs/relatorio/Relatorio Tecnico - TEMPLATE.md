@@ -57,7 +57,9 @@
 ## Problema
 
 Com o passar dos anos, a conduta do consumidor contemporâneo tem sido modificada conforme a tecnologia avança, e novas alternativas aparecem para atender a todos os tipos de perfis.
+
 Apesar da tecnologia possibilitar uma maior interação entre consumidores e fornecedores, os deficientes visuais são uma parcela da população que ainda enfrenta barreiras no quesito acessibilidade. Em uma comunidade de consumidores que reverencia o aspecto exterior, o consumidor cego é submetido a ajuda de familiares e pessoas de sua confiança para transpassar os elementos na compatibilização da vestimenta conforme sua personalidade, segundo declarado por Schneideret. al (2017). Além disso, a privação do acesso às informações dos produtos, que disponibiliza o reconhecimento de peças de roupa, cores e padronagens, intensifica essa dependência entre deficientes visuais e terceiros.
+
 Perante o exposto, torna-se necessária a elaboração de uma aplicação que objetiva ofertar às pessoas com deficiência visual uma autonomia na escolha de suas roupas.
 
 ## Objetivos
