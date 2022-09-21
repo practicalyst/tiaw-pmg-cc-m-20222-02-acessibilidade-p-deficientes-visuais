@@ -89,7 +89,7 @@ Assim, os objetivos principais são:
 ## Público-Alvo
 
   O público-alvo desse projeto abrange uma parte menor dos deficientes visuais. Sabe-se que nem todos veem a necessidade em tornar-se independentes durante a escolha da vestimenta. Isso se dá principalmente ao fato dessas pessoas já estarem acostumadas com alguém (familiares ou amigos próximos) auxiliando-as durante o processo de escolha de estilo. Assim, tem-se definido: 
-- O público-alvo está entre homens e mulheres, de faixa etária dos 18 até 30 anos, já que por serem mais jovens, tendem a ser mais curiosos e abertos a mudanças em relação a este tema;
+- O público-alvo está entre homens e mulheres, de faixa etária dos 20 até 35 anos, já que por serem mais jovens, tendem a ser mais curiosos e abertos a mudanças em relação a este tema;
 - A escolaridade varia entre ensino médio completo e superior em curso.
 - Classe social entre B e C;
 - Localizam-se em geral nas cidades urbanas;
