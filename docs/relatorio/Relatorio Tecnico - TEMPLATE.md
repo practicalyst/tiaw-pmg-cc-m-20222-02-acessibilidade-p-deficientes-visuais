@@ -56,23 +56,11 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Com o passar dos anos, a conduta do consumidor contemporâneo tem sido modificada conforme a tecnologia avança, e novas alternativas aparecem para atender a todos os tipos de perfis.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Apesar da tecnologia possibilitar uma maior interação entre consumidores e fornecedores, os deficientes visuais são uma parcela da população que ainda enfrenta barreiras no quesito acessibilidade. Em uma comunidade de consumidores que reverencia o aspecto exterior, o consumidor cego é submetido a ajuda de familiares e pessoas de sua confiança para transpassar os elementos na compatibilização da vestimenta conforme sua personalidade, segundo declarado por Schneideret. al (2017). Além disso, a privação do acesso às informações dos produtos, que disponibiliza o reconhecimento de peças de roupa, cores e padronagens, intensifica essa dependência entre deficientes visuais e terceiros.
+
+Perante o exposto, torna-se necessária a elaboração de uma aplicação que objetiva ofertar às pessoas com deficiência visual uma autonomia na escolha de suas roupas.
 
 ## Objetivos
 
@@ -105,22 +93,13 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  O público-alvo desse projeto abrange uma parte menor dos deficientes visuais. Sabe-se que nem todos veem a necessidade em tornar-se independentes durante a escolha da vestimenta. Isso se dá principalmente ao fato dessas pessoas já estarem acostumadas com alguém (familiares ou amigos próximos) auxiliando-as durante o processo de escolha de estilo. Assim, tem-se definido: 
+- O público-alvo está entre homens e mulheres, de faixa etária dos 18 até 30 anos, já que por serem mais jovens, tendem a ser mais curiosos e abertos a mudanças em relação a este tema;
+- A escolaridade varia entre ensino médio completo e superior em curso.
+- Classe social entre B e C;
+- Localizam-se em geral nas cidades urbanas;
+- Em relação a seus hábitos: estão por dentro das tecnologias atuais, possuem a vontade de ter um estilo próprio e preferem roupas mais confortáveis.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
