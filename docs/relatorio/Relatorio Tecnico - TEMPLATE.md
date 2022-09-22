@@ -72,19 +72,11 @@ Assim, os objetivos principais são:
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Tendo como base as dificuldades das pessoas com deficiência visual em relação ao cotidiano, foi constatado pelos integrantes do grupo que uma aplicação que visa proporcionar uma autonomia ao se vestir, sobretudo oferecendo informações detalhadas acerca das características de determinado vestuário, seria de grande utilidade para esse público.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Em uma entrevista ao jornal Folha de São Paulo, o estilista Geraldo Lima, ao realizar uma coleção de inverno do ano de 2003, que tinha como inspiração a rotina dos deficientes visuais, afirmou que a maior dificuldade que os cegos enfrentam em relação à moda é a falta de informações básicas, como as cores de uma peça. Uma vez que essas informações são concedidas, os deficientes visuais adquirem uma independência na hora da escolha da roupa.  
+
+Como exposto anteriormente, o propósito do projeto é disponibilizar um mecanismo que, a partir da detecção da descrição de dados, possibilite essa liberdade de decisão às pessoas com deficiência visual.
 
 ## Público-Alvo
 
