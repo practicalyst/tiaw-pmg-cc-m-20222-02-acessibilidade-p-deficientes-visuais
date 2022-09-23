@@ -10,12 +10,12 @@ Ciência da Computação
 ## Participantes
 
 > Os membros do grupo são: 
-> - Ana Cristina Martins Silva
-> - Arthur Faria
-> - Franklin
-> - Isabella
-> - Lucas Santos
-> - Pedro Honorato
+- Ana Cristina Martins Silva
+- Arthur Faria de Paula
+- Isabella Luiza Dias dos Santos
+- Franklin
+- Lucas Gabriel Aparecido dos Santos
+- Pedro Henrique de Magalhães Honorato
 
 # Estrutura do Documento
 
