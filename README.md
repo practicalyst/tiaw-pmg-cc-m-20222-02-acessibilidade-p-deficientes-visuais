@@ -14,8 +14,10 @@ Nosso projeto busca ajudar pessoas que sofrem de alguma deficiência visual alca
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Carneiro
+* Ilo Rivero
+* João Carlos Oliveira Caetano
+* Carlos Augusto De Paiva Da Silva Martins
 
 ## Instruções de utilização
 
