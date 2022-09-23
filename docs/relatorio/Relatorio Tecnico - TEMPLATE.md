@@ -9,15 +9,15 @@ Ciência da Computação
 
 ## Participantes
 
-> Arthur Faria de Paula,
+> Arthur Faria de Paula.
 > 
-> Ana Cristina Martins Silva,
+> Ana Cristina Martins Silva.
 > 
-> Isabella Luiza Dias dos Santos,
+> Isabella Luiza Dias dos Santos.
 > 
-> Franklin,
+> Franklin.
 > 
-> Lucas Gabriel Aparecido dos Santos,
+> Lucas Gabriel Aparecido dos Santos.
 > 
 > Pedro Henrique de Magalhães Honorato.
 
