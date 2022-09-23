@@ -99,9 +99,11 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 
 ## Personas e Mapas de Empatia
 
-Bruna tem 35 anos, é báncaria e gostaria muito de poder montar seu próprio estilo através de compras online,
- Giovani tem 30 anos, é instrutor de infomática aplicada e possui um desejo muito grande de comprar roupas que combinam contigo,
- Rafel possui 34 anos, é administrador, e uns de seus desejos é ser mais independente no momentos de montar looks,.
+ Bruna tem 35 anos, é báncaria e gostaria muito de poder montar seu próprio estilo através de compras online.
+
+ Giovani tem 30 anos, é instrutor de infomática aplicada e possui um desejo muito grande de comprar roupas que combinam contigo.
+ 
+ Rafel possui 34 anos, é administrador, e uns de seus desejos é ser mais independente no momentos de montar looks.
 
 >
 > **Links Úteis**:
