@@ -9,13 +9,16 @@ Ciência da Computação
 
 ## Participantes
 
-> Os membros do grupo são: 
-- Ana Cristina Martins Silva
-- Arthur Faria de Paula
-- Isabella Luiza Dias dos Santos
-- Franklin
-- Lucas Gabriel Aparecido dos Santos
-- Pedro Henrique de Magalhães Honorato
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Inclua a lista dos membros da equipe com seus nomes completos.
+>
+> Arthur Faria de Paula
+> Ana Cristina Martins Silva
+> Isabella Luiza Dias dos Santos
+> Franklin
+> Lucas Gabriel Aparecido dos Santos
+> Pedro Henrique de Magalhães Honorato
 
 # Estrutura do Documento
 
@@ -82,7 +85,7 @@ Como exposto anteriormente, o propósito do projeto é disponibilizar um mecanis
 
   O público-alvo desse projeto abrange uma parte menor dos deficientes visuais. Sabe-se que nem todos veem a necessidade em tornar-se independentes durante a escolha da vestimenta. Isso se dá principalmente ao fato dessas pessoas já estarem acostumadas com alguém (familiares ou amigos próximos) auxiliando-as durante o processo de escolha de estilo. Assim, tem-se definido: 
 - O público-alvo está entre homens e mulheres, de faixa etária dos 20 até 35 anos, já que por serem mais jovens, tendem a ser mais curiosos e abertos a mudanças em relação a este tema;
-- A escolaridade varia entre ensino médio completo e superior em curso;
+- A escolaridade varia entre ensino médio completo e superior em curso.
 - Classe social entre B e C;
 - Localizam-se em geral nas cidades urbanas;
 - Em relação a seus hábitos: estão por dentro das tecnologias atuais, possuem a vontade de ter um estilo próprio e preferem roupas mais confortáveis.
@@ -90,15 +93,13 @@ Como exposto anteriormente, o propósito do projeto é disponibilizar um mecanis
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, através da elaboração das Personas, Histórias de Usuários, Requisitos e Restrições do projeto.
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... Bruna tem 35 anos, é báncaria e gostaria muito de poder montar seu próprio estilo através de compras online......
+...... Giovani tem 30 anos, é instrutor de infomática aplicada e possui um desejo muito grande de comprar roupas que combinam contigo......
+...... Rafel possui 34 anos, é administrador, e uns de seus desejos é ser mais independente no momentos de montar looks......
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -128,10 +129,12 @@ Como exposto anteriormente, o propósito do projeto é disponibilizar um mecanis
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|-------------------- |------------------------------------|----------------------------------------|
+|Usuário da plataforma| Conseguir comprar roupas online    | Definir estilo próprio                 |
+|Usuário da plataforma| Ter acesso a lojas virtuais        | Comprar roupas que combinam comigo     | 
+|Usuário da plataforma| Compar roupas sozinho              | Ser mais independente                  |
+                |                                        
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -150,10 +153,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito                              | Prioridade |
+|------|-----------------------------------------------------|------------|
+|RF-001| Permitir que o usuário consiga fazer compras online |   ALTA     | 
+|RF-002| Garantir um acesso prático é fácil aos usuários     |   ALTA     |
 
 
 ### Requisitos não Funcionais
