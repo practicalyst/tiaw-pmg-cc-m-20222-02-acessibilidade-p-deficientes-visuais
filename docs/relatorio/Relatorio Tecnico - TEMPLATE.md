@@ -9,16 +9,16 @@ Ciência da Computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Arthur Faria de Paula
+ > Arthur Faria de Paula
 > Ana Cristina Martins Silva
 > Isabella Luiza Dias dos Santos
 > Franklin
 > Lucas Gabriel Aparecido dos Santos
 > Pedro Henrique de Magalhães Honorato
+
+> Inclua a lista dos membros da equipe com seus nomes completos.
+>
+
 
 # Estrutura do Documento
 
@@ -97,17 +97,10 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 
 ## Personas e Mapas de Empatia
 
-...... Bruna tem 35 anos, é báncaria e gostaria muito de poder montar seu próprio estilo através de compras online......
-...... Giovani tem 30 anos, é instrutor de infomática aplicada e possui um desejo muito grande de comprar roupas que combinam contigo......
-...... Rafel possui 34 anos, é administrador, e uns de seus desejos é ser mais independente no momentos de montar looks......
+Bruna tem 35 anos, é báncaria e gostaria muito de poder montar seu próprio estilo através de compras online,
+ Giovani tem 30 anos, é instrutor de infomática aplicada e possui um desejo muito grande de comprar roupas que combinam contigo,
+ Rafel possui 34 anos, é administrador, e uns de seus desejos é ser mais independente no momentos de montar looks,.
 
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
 >
 > **Links Úteis**:
 > - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
