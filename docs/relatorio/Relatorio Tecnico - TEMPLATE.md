@@ -9,13 +9,13 @@ Ciência da Computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Ana Cristina Martins Silva
+> - Arthur Faria
+> - Franklin
+> - Isabella
+> - Lucas Santos
+> - Pedro Honorato
 
 # Estrutura do Documento
 
