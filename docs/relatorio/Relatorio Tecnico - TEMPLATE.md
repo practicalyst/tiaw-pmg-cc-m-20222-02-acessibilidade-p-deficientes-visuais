@@ -9,12 +9,17 @@ Ciência da Computação
 
 ## Participantes
 
-> Arthur Faria de Paula
-> Ana Cristina Martins Silva
-> Isabella Luiza Dias dos Santos
-> Franklin
-> Lucas Gabriel Aparecido dos Santos
-> Pedro Henrique de Magalhães Honorato
+> Arthur Faria de Paula,
+> 
+> Ana Cristina Martins Silva,
+> 
+> Isabella Luiza Dias dos Santos,
+> 
+> Franklin,
+> 
+> Lucas Gabriel Aparecido dos Santos,
+> 
+> Pedro Henrique de Magalhães Honorato.
 
 
 # Estrutura do Documento
