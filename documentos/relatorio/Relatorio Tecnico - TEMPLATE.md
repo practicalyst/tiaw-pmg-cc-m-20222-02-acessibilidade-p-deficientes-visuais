@@ -99,11 +99,11 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 
 ## Personas e Mapas de Empatia
 
- Bruna tem 35 anos, é báncaria e gostaria muito de poder montar seu próprio estilo através de compras online.
+ Bruna tem 35 anos, é báncaria e gostaria muito de montar seu próprio estilo através de compras online.
 
  Giovani tem 30 anos, é instrutor de infomática aplicada e possui um desejo muito grande de comprar roupas que combinam contigo.
  
- Rafel possui 34 anos, é administrador, e uns de seus desejos é ser mais independente no momentos de montar looks.
+ Rafael possui 34 anos, é administrador e uns de seus desejos é ser mais independente na hora de se vestir.
 
 >
 > **Links Úteis**:
@@ -134,17 +134,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário da plataforma| Ter acesso a lojas virtuais        | Comprar roupas que combinam comigo     | 
 |Usuário da plataforma| Comprar roupas sozinho              | Ser mais independente                  |
                 |                                        
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -291,38 +280,20 @@ Já a segunda divisão ocorreu dentro de cada grupo desses, dando a cada integra
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto segue a seguinte convenção para o nome de branchs:
+ 
+- `master`: versão estável já testada do software
+- `unstable`: versão já testada do software, porém instável
+- `testing`: versão em testes do software
+- `dev`: versão de desenvolvimento do software
+ 
+Quanto à gerência de issues, o projeto adota a seguinte convenção para
+etiquetas:
+ 
+- `bugfix`: uma funcionalidade encontra-se com problemas
+- `enhancement`: uma funcionalidade precisa ser melhorada
+- `feature`: uma nova funcionalidade precisa ser introduzida
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
@@ -404,10 +375,6 @@ Já a segunda divisão ocorreu dentro de cada grupo desses, dando a cada integra
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
 > 
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
