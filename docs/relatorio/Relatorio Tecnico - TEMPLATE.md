@@ -117,7 +117,7 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![Persona1](images/Persona1.jpg)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
