@@ -215,14 +215,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > Projeto](#especificações-do-projeto).
 
 ## User Flow
+![WhatsApp Image 2022-09-24 at 01 37 41](https://user-images.githubusercontent.com/111890943/192094405-21e13a69-ce94-4262-8e3c-3ff6d6bcac6f.jpeg)
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
@@ -235,12 +230,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
+![709f3e42-8cd0-4c44-a124-2d3667f79b35](https://user-images.githubusercontent.com/111890943/192094520-96ddfcc5-7bc6-43fc-af3b-ac86177ecd9f.jpg)
+![28abc812-d56e-4662-a6d5-44d95906bf7d](https://user-images.githubusercontent.com/111890943/192094531-53f343b9-3506-42f3-9f06-3acf650d7f00.jpg)
+![4227e65a-773c-4328-b81a-56fc2dfdc5f6](https://user-images.githubusercontent.com/111890943/192094551-e7879640-d9b6-4c0e-9c39-936ebce661e5.jpg)![c294fac4-4391-4617-8b97-0d35da8f8da5](https://user-images.githubusercontent.com/111890943/192094563-03783058-da82-40c0-83ff-28ba24f6309d.jpg)
+
+
+
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
 > 
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
