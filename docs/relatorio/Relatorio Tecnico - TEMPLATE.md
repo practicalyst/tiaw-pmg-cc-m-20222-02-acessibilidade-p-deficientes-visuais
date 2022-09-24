@@ -132,7 +132,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |-------------------- |------------------------------------|----------------------------------------|
 |Usuário da plataforma| Conseguir comprar roupas online    | Definir estilo próprio                 |
 |Usuário da plataforma| Ter acesso a lojas virtuais        | Comprar roupas que combinam comigo     | 
-|Usuário da plataforma| Compar roupas sozinho              | Ser mais independente                  |
+|Usuário da plataforma| Comprar roupas sozinho              | Ser mais independente                  |
                 |                                        
 
 > Apresente aqui as histórias de usuário que são relevantes para o
