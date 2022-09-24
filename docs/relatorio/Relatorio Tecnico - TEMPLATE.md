@@ -15,7 +15,7 @@ Ciência da Computação
 > 
 > Isabella Luiza Dias dos Santos.
 > 
-> Franklin.
+> Franklin Inácio Santos Guimarães
 > 
 > Lucas Gabriel Aparecido dos Santos.
 > 
@@ -267,10 +267,6 @@ Foi designada a cada membro da equipe um conjunto de tarefas, objetivando uma di
  
 *Git Hub: Todos os membros da equipe possuem acesso ao repositório do projeto no git hub. Mudanças e atualizações nas etapas de desenvolvimento são constantemente atualizadas pela equipe.
  
-*Ferramentas utilizadas:
--> Miro
--> Git Hub Classroom
--> Ferramentas de edição externas (Photoshop, Canva, Word, Power Point, Etc).
 > 
 > **Links Úteis**:
 > - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
