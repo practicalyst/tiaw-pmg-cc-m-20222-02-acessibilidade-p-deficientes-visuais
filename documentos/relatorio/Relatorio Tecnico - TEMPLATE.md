@@ -276,7 +276,8 @@ Foi designada a cada membro da equipe um conjunto de tarefas, objetivando uma di
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Houveram duas divisões de papéis, uma mais geral aonde o grupo se diviu entre trabalhar na documenta do projeto ou no design. 
+Já a segunda divisão ocorreu dentro de cada grupo desses, dando a cada integrante papéis mais epecíficos 
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
