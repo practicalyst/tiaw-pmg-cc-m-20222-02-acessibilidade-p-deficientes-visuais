@@ -252,18 +252,23 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Metodologia
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
+O projeto foi desenvolvido com base na metodologia scrum, um método de trabalho realizado a partir de pequenos ciclos de atividades dentro de um projeto. Cada ciclo de atividade é planejado previamente e se chama Sprint, composto por um período de tempo predefinido em que as tarefas devem ser realizadas pela equipe.
+Foi designada a cada membro da equipe um conjunto de tarefas, objetivando uma didática mais eficaz que proporciona um abiente de desenvolvimento controlado. Com o auxílio da ferramenta "miro", foi possível desenvolver um mapa mental de desenvolvimento de todo projeto, onde pode ser consultado no seguinte link: https://miro.com/welcomeonboard/VXljSHV6UjlPR2Z2cEo0RXZsOE9pRTFERzBjdDRMZ1YwbU40ZVJuNnpCajZVUTlTc0ZaZDVBalVaZzhmbW9MNXwzNDU4NzY0NTMzOTIxMDcyNDU5fDI=?share_link_id=155739220858
+ 
+*O processo de Design Thinking foi subdividido em 3 categorias: Entendimento, Exploração e Materialização do projeto, dentre os quais foram organizadas de maneira eficaz e otimizada.
+ 
+-Entendimento: Foram realizadas entrevistas qualitativas com um grupo de portadores de deficiência visual para melhor compreenção dos desafios enfrentados pelos mesmos. Mapas de stakeholders e uma matriz CSD foram criadas com a finalidade de garantir um 'feedback" do projeto.  A identificação da persona foi um dos passos mais importantes do projeto, pois apartir dela, foi possível identificar o público alvo a qual o projeto se destinará, e por tanto, garantir uma melhor experiência do usuário.
+ 
+-Exploração: A etapa de exploração se baseia na idealização do projeto, onde foi realizado o Brainstorming, esquematizando as principais ideias e soluções. Uma vez concluído, uma votação foi feita a fim de decidir as melhores ideias. Logo, foi possível desenvolver um mapa de prioridades, onde as tarefas da equipe foram dividadas em requisitos de prioridade.
+ 
+-Materialização: montagem de um protótipo do projeto apartir das ideias priorizadas ( Wireframes, Fluxos de usuário, storyboards), seguida de uma linhagem rigorosa de testes afim de cumprir os requisitos da etapa de desenvolvimento. Por fim, garantir um fluxo de navegação que atenda as necessidades do usuário.
+ 
+*Git Hub: Todos os membros da equipe possuem acesso ao repositório do projeto no git hub. Mudanças e atualizações nas etapas de desenvolvimento são constantemente atualizadas pela equipe.
+ 
+*Ferramentas utilizadas:
+-> Miro
+-> Git Hub Classroom
+-> Ferramentas de edição externas (Photoshop, Canva, Word, Power Point, Etc).
 > 
 > **Links Úteis**:
 > - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
