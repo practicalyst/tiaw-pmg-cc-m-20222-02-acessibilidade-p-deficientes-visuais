@@ -115,9 +115,11 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
-> **Exemplo de Persona**
+>**Exemplo de Persona**
 > 
 > ![Persona1](images/Persona1.jpg)
+> ![Persona2](images/Persona2.jpg)
+> ![Persona3](images/Persona3.jpg)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
