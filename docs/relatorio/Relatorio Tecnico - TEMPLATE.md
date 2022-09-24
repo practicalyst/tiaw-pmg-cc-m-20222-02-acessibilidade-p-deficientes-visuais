@@ -257,11 +257,11 @@ Foi designada a cada membro da equipe um conjunto de tarefas, objetivando uma di
  
 *O processo de Design Thinking foi subdividido em 3 categorias: Entendimento, Exploração e Materialização do projeto, dentre os quais foram organizadas de maneira eficaz e otimizada.
  
--Entendimento: Foram realizadas entrevistas qualitativas com um grupo de portadores de deficiência visual para melhor compreenção dos desafios enfrentados pelos mesmos. Mapas de stakeholders e uma matriz CSD foram criadas com a finalidade de garantir um 'feedback" do projeto.  A identificação da persona foi um dos passos mais importantes do projeto, pois apartir dela, foi possível identificar o público alvo a qual o projeto se destinará, e por tanto, garantir uma melhor experiência do usuário.
+-> Entendimento: Foram realizadas entrevistas qualitativas com um grupo de portadores de deficiência visual para melhor compreenção dos desafios enfrentados pelos mesmos. Mapas de stakeholders e uma matriz CSD foram criadas com a finalidade de garantir um 'feedback" do projeto.  A identificação da persona foi um dos passos mais importantes do projeto, pois apartir dela, foi possível identificar o público alvo a qual o projeto se destinará, e por tanto, garantir uma melhor experiência do usuário.
  
--Exploração: A etapa de exploração se baseia na idealização do projeto, onde foi realizado o Brainstorming, esquematizando as principais ideias e soluções. Uma vez concluído, uma votação foi feita a fim de decidir as melhores ideias. Logo, foi possível desenvolver um mapa de prioridades, onde as tarefas da equipe foram dividadas em requisitos de prioridade.
+->Exploração: A etapa de exploração se baseia na idealização do projeto, onde foi realizado o Brainstorming, esquematizando as principais ideias e soluções. Uma vez concluído, uma votação foi feita a fim de decidir as melhores ideias. Logo, foi possível desenvolver um mapa de prioridades, onde as tarefas da equipe foram dividadas em requisitos de prioridade.
  
--Materialização: montagem de um protótipo do projeto apartir das ideias priorizadas ( Wireframes, Fluxos de usuário, storyboards), seguida de uma linhagem rigorosa de testes afim de cumprir os requisitos da etapa de desenvolvimento. Por fim, garantir um fluxo de navegação que atenda as necessidades do usuário.
+-> Materialização: montagem de um protótipo do projeto apartir das ideias priorizadas ( Wireframes, Fluxos de usuário, storyboards), seguida de uma linhagem rigorosa de testes afim de cumprir os requisitos da etapa de desenvolvimento. Por fim, garantir um fluxo de navegação que atenda as necessidades do usuário.
  
 *Git Hub: Todos os membros da equipe possuem acesso ao repositório do projeto no git hub. Mudanças e atualizações nas etapas de desenvolvimento são constantemente atualizadas pela equipe.
  
