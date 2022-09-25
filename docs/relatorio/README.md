@@ -9,7 +9,7 @@ Ciência da Computação
 
 ## Participantes
 
-> Ana Cristina Martins Silva. Arthur Faria de Paula.
+> Ana Cristina Martins Silva.
 > 
 >  Arthur Faria de Paula.
 > 
