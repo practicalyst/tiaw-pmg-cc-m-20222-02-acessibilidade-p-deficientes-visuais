@@ -169,11 +169,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 > Lembre-se que cada requisito deve corresponder à uma e somente uma
 > característica alvo da sua solução. Além disso, certifique-se de que
 > todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 ## Restrições
@@ -184,14 +179,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 # Projeto de Interface
@@ -213,21 +200,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![4227e65a-773c-4328-b81a-56fc2dfdc5f6](https://user-images.githubusercontent.com/111890943/192094551-e7879640-d9b6-4c0e-9c39-936ebce661e5.jpg)![c294fac4-4391-4617-8b97-0d35da8f8da5](https://user-images.githubusercontent.com/111890943/192094563-03783058-da82-40c0-83ff-28ba24f6309d.jpg)
 
 
-
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
-
-
 # Metodologia
 O projeto foi desenvolvido com base na metodologia scrum, um método de trabalho realizado a partir de pequenos ciclos de atividades dentro de um projeto. Cada ciclo de atividade é planejado previamente e se chama Sprint, composto por um período de tempo predefinido em que as tarefas devem ser realizadas pela equipe.
 Foi designada a cada membro da equipe um conjunto de tarefas, objetivando uma didática mais eficaz que proporciona um abiente de desenvolvimento controlado. Com o auxílio da ferramenta "miro", foi possível desenvolver um mapa mental de desenvolvimento de todo projeto, onde pode ser consultado no seguinte link: https://miro.com/welcomeonboard/VXljSHV6UjlPR2Z2cEo0RXZsOE9pRTFERzBjdDRMZ1YwbU40ZVJuNnpCajZVUTlTc0ZaZDVBalVaZzhmbW9MNXwzNDU4NzY0NTMzOTIxMDcyNDU5fDI=?share_link_id=155739220858
@@ -242,23 +214,11 @@ Foi designada a cada membro da equipe um conjunto de tarefas, objetivando uma di
  
 *Git Hub: Todos os membros da equipe possuem acesso ao repositório do projeto no git hub. Mudanças e atualizações nas etapas de desenvolvimento são constantemente atualizadas pela equipe.
  
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
 Houveram duas divisões de papéis, uma mais geral aonde o grupo se diviu entre trabalhar na documenta do projeto ou no design. 
 Já a segunda divisão ocorreu dentro de cada grupo desses, dando a cada integrante papéis mais epecíficos 
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 
 ## Ferramentas
@@ -267,18 +227,18 @@ Já a segunda divisão ocorreu dentro de cada grupo desses, dando a cada integra
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |   https://miro.com/welcomeonboard/VXljSHV6UjlPR2Z2cEo0RXZsOE9pRTFERzBjdDRMZ1YwbU40ZVJuNnpCajZVUTlTc0ZaZDVBalVaZzhmbW9MNXwzNDU4NzY0NTMzOTIxMDcyNDU5fDI=?share_link_id=155739220858 
-|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20222-02-acessibilidade-p-deficientes-visuais 
+|Processo de Design Thinkgin  | Miro |   https://miro.com/welcomeonboard/VXljSHV6UjlPR2Z2cEo0RXZsOE9pRTFERzBjdDRMZ1YwbU40ZVJuNnpCajZVUTlTc0ZaZDVBalVaZzhmbW9MNXwzNDU4NzY0NTMzOTIxMDcyNDU5fDI=?share_link_id=155739220858 | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20222-02-acessibilidade-p-deficientes-visuais | 
+|Reunião com a equipe | https://chat.whatsapp.com/CBTdDooRuB389oGOY0vnT8 |
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
 
 ## Controle de Versão
+O site vai ser dividido em 3 versões.
+A primeira delas será o protótipo da plataforma, um esboço aonde veremos o fluxo de usuário na prática e iremos melhorando aos poucos, nesta ainda não haverá implementação visual.
+A segunda já vai ter uma implementação visual com extensões que auxiliarão a navegação do site para deficientes visuais.
+A terceira e final, será uma versão estável aonde a única mudança feita será a correção de bugs
 
 O projeto segue a seguinte convenção para o nome de branchs:
  
