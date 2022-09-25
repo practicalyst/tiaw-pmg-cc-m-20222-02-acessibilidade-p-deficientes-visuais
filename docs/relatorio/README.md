@@ -229,7 +229,7 @@ Já a segunda divisão ocorreu dentro de cada grupo desses, dando a cada integra
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |   https://miro.com/welcomeonboard/VXljSHV6UjlPR2Z2cEo0RXZsOE9pRTFERzBjdDRMZ1YwbU40ZVJuNnpCajZVUTlTc0ZaZDVBalVaZzhmbW9MNXwzNDU4NzY0NTMzOTIxMDcyNDU5fDI=?share_link_id=155739220858 | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20222-02-acessibilidade-p-deficientes-visuais | 
-|Reunião com a equipe | https://chat.whatsapp.com/CBTdDooRuB389oGOY0vnT8 |
+|Reunião com a equipe | WhatsApp | https://chat.whatsapp.com/CBTdDooRuB389oGOY0vnT8 |
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
 
