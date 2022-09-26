@@ -106,15 +106,6 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
  Rafael possui 34 anos, é administrador e uns de seus desejos é ser mais independente na hora de se vestir.
 
 >
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
 >**Persona**
 > 
 > ![Persona1](images/Persona1.jpg)
@@ -165,9 +156,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 >   desempenho, confiabilidade, segurança ou outro (ex: suporte a
 >   dispositivos iOS e Android).
 >
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 
 ## Restrições
@@ -182,12 +170,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+O projeto de interface foi dividido em dois, sendo o User Flow e os Wireframes. Ambos representam de forma simplificada o futuro site. 
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 ![WhatsApp Image 2022-09-24 at 01 37 41](https://user-images.githubusercontent.com/111890943/192094405-21e13a69-ce94-4262-8e3c-3ff6d6bcac6f.jpeg)
@@ -225,7 +209,6 @@ Slide - Ana e Isabella
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
