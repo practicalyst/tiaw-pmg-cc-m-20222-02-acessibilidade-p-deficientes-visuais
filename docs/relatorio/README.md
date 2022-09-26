@@ -121,7 +121,6 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 > ![Persona2](images/Persona2.jpg)
 > ![Persona3](images/Persona3.jpg)
 > 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
 ## Histórias de Usuários
@@ -217,8 +216,11 @@ Foi designada a cada membro da equipe um conjunto de tarefas, objetivando uma di
 
 ## Divisão de Papéis
 
-Houveram duas divisões de papéis, uma mais geral aonde o grupo se diviu entre trabalhar na documenta do projeto ou no design. 
-Já a segunda divisão ocorreu dentro de cada grupo desses, dando a cada integrante papéis mais epecíficos 
+Houveram duas divisões de papéis, uma mais geral aonde o grupo se dividiu entre trabalhar na Documentação do projeto ou no Design Thinking. 
+Assim, a divisão ficou: 
+Documentação - Ana Cristina, Isabella, Arthur e Franklin.
+Design Thinking (Miro) - Lucas e Pedro.
+Slide - Ana e Isabella
 
 
 ## Ferramentas
@@ -230,8 +232,7 @@ Já a segunda divisão ocorreu dentro de cada grupo desses, dando a cada integra
 |Processo de Design Thinkgin  | Miro |   https://miro.com/welcomeonboard/VXljSHV6UjlPR2Z2cEo0RXZsOE9pRTFERzBjdDRMZ1YwbU40ZVJuNnpCajZVUTlTc0ZaZDVBalVaZzhmbW9MNXwzNDU4NzY0NTMzOTIxMDcyNDU5fDI=?share_link_id=155739220858 | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20222-02-acessibilidade-p-deficientes-visuais | 
 |Reunião com a equipe | WhatsApp | https://chat.whatsapp.com/CBTdDooRuB389oGOY0vnT8 |
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | Figma | https://figma.com/XXXXXXX | 
 
 
 ## Controle de Versão
