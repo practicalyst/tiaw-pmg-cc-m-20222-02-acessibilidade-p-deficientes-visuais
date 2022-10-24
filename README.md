@@ -10,7 +10,7 @@ Nosso projeto busca ajudar pessoas que sofrem de alguma deficiência visual alca
 * Ana Cristina Martins Silva
 * Isabella Luiza Dias dos Santos
 * Franklin Inácio Santos Guimarães 
-* Lucas Gabriel Aparecido dos Santos
+* Lucas Gabriel Aparecido  Santos
 * Pedro Henrique de Magalhães Honorato
 
 ## Professores responsáveis
