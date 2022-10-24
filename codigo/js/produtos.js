@@ -1,7 +1,7 @@
-var produtos = {
-    "masculinos": [
+var localDB = {
+    "masculino": [
             {
-                "id": 1,
+                "id": 0,
                 "imagem": " " ,
                 "nome": "Camisa Polo Branca Reserva 100% Algodão com Simbolo Reserva Estampado no Peito",
                 "descrição": "100% Algodão com Simbolo Reserva Estampado no Peito",
@@ -31,9 +31,9 @@ var produtos = {
             }          
         ],
 
-        "femininos": [
+        "feminino": [
             {
-                "id": 1,
+                "id": 0,
                 "imagem": " " ,
                 "nome": "Bermuda Jeans Claro Com Folgadas na Cintura e com Afunilamento perto das Coxas",
                 "descrição": "Bermuda de última moda entre jovens, solta na região da cintura e um pouco mais firme na região das coxas.",
