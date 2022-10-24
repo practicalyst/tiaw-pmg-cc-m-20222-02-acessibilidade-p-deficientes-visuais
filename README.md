@@ -6,16 +6,19 @@ Nosso projeto busca ajudar pessoas que sofrem de alguma deficiência visual alca
 
 ## Alunos integrantes da equipe
 
-* Pedro Henrique de Magalhães Honorato
-* Lucas Gabriel Aparecido dos Santos
 * Arthur Faria de Paula
-* Isabella Luiza Dias dos Santos
 * Ana Cristina Martins Silva
+* Isabella Luiza Dias dos Santos
+* Franklin Inácio Santos Guimarães 
+* Lucas Gabriel Aparecido dos Santos
+* Pedro Henrique de Magalhães Honorato
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Carneiro
+* Ilo Rivero
+* João Carlos Oliveira Caetano
+* Carlos Augusto De Paiva Da Silva Martins
 
 ## Instruções de utilização
 
