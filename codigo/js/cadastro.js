@@ -14,8 +14,9 @@ const linksSemelhantes = document.querySelector("#linksSemelhantes");
 const linksCombinam = document.querySelector("#linksCombinam");
 var imagemLink = '';
 
-const btnCadastro = document.querySelector('#btnCadastro');
+const btnCadastro = document.querySelector("#btnCadastro");
 
+const produtosCadastrados = document.querySelector(".produtosCadastrados");
 
 pictureImage.innerHTML = pictureImageTxt;
 
@@ -50,6 +51,8 @@ inputFile.addEventListener("change", function (e) {
 });
 
 btnCadastro.addEventListener('click', function (e) { 
+    
+    
     console.log(e.target);
 
     var secao = '';
@@ -79,6 +82,7 @@ btnCadastro.addEventListener('click', function (e) {
     localDB[secao].length["linksSemelhantes"] = linksSemelhantes.value;
     localDB[secao].length["linksCombinam"] = linksCombinam.value;
 
+
     console.log("id: ",lengthLocalDB);
     console.log("imagem: " ,imagemLink);
     console.log("nome: ",nomeProduto.value);
@@ -92,8 +96,84 @@ btnCadastro.addEventListener('click', function (e) {
     console.log("links semelhantes: ", linksSemelhantes.value);
     console.log("links que combinam", linksCombinam.value);
     
+    let pNome = document.createElement('p');
+    let pDescricao = document.createElement('p');
+    let pCategoria = document.createElement('p');
+
+    let nImg = document.createElement('img');
+
+    let nProduto = document.createElement('div');
+
+    nImg.src = imagemLink;
+    nProduto.appendChild(nImg);
+
+    pNome.innerText = nomeProduto.value;
+    nProduto.appendChild(pNome);
+
+    pCategoria.innerText = categoriaProduto.value;
+    nProduto.appendChild(pCategoria);
+
+    pDescricao.innerText = descricaoProduto.value;
+    nProduto.appendChild(pDescricao);
+
+    produtosCadastrados.appendChild(nProduto);
+
 
     alert("Cadastro Realizado com Sucesso! - no Local Storage");
-    
 
 });
+
+window.onload = function(e){
+
+    console.log(localDB['masculino'].length);
+    console.log(localDB["masculino"][0]["nome"]); 
+    
+
+
+    for(let i = 0; i < localDB["masculino"].length; i++){
+        
+        let pNome = document.createElement('p');
+        let pDescricao = document.createElement('p');
+        let pCategoria = document.createElement('p');
+        let nImg = document.createElement('img');
+        let nProduto = document.createElement('div');
+
+        nImg.src = localDB["masculino"][i]["imagem"];
+        nProduto.appendChild(nImg);
+
+        pNome.innerText = localDB["masculino"][i]["nome"];
+        nProduto.appendChild(pNome);
+
+        pCategoria.innerText = localDB["masculino"][i]["categoria"];
+        nProduto.appendChild(pCategoria);
+
+        pDescricao.innerText = localDB["masculino"][i]["descrição"];
+        nProduto.appendChild(pDescricao);
+
+        produtosCadastrados.appendChild(nProduto);
+    }
+
+    for(let i = 0; i < localDB["feminino"].length; i++){
+        
+        let pNome = document.createElement('p');
+        let pDescricao = document.createElement('p');
+        let pCategoria = document.createElement('p');
+        let nImg = document.createElement('img');
+        let nProduto = document.createElement('div');
+
+        nImg.src = localDB["feminino"][i]["imagem"];
+        nProduto.appendChild(nImg);
+
+        pNome.innerText = localDB["feminino"][i]["nome"];
+        nProduto.appendChild(pNome);
+
+        pCategoria.innerText = localDB["feminino"][i]["categoria"];
+        nProduto.appendChild(pCategoria);
+
+        pDescricao.innerText = localDB["feminino"][i]["descrição"];
+        nProduto.appendChild(pDescricao);
+
+        produtosCadastrados.appendChild(nProduto);
+    }
+    
+};

@@ -102,3 +102,45 @@ label, input, select {
     max-height: 100%;
   }
   
+.produtosCadastrados {
+
+    min-height: 200px;
+    width: 50%;
+    margin: auto;
+}
+
+.produtosCadastrados div {
+    /*
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    */
+    padding: 10px 30px;
+    overflow: auto;
+    background-color: white;
+
+    border-bottom: 2px #777 solid;
+
+}
+
+.produtosCadastrados img {
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+.produtosCadastrados div>p:first-of-type {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.produtosCadastrados div>p:nth-child(3) {
+    text-transform: capitalize;
+    font-style: italic;
+}
+
+
+.produtosCadastrados p {
+    display: inline-block;
+    margin-left: 10px;
+}
