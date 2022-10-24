@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastros de Produtos - Blind Outfit</title>
+
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="../js/produtos.js"></script>
+</head>
+<body>
+    
+    <h1>Cadastro de Produtos - <span>Blind Outfit</span></h1>
+
+    <main>
+            <div class="container">
+                <div>
+                    <label for="nomeProduto">Nome do Produto: </label>
+                    <input type="text" id="nomeProduto" placeholder="Camisa Polo Branca Reserva 100% Algodão com Simbolo Reserva Estampado no Peito">
+                </div>
+
+                <div>
+                    <label for="descricaoProduto">Descrição do Produto: </label>
+                    <input type="text" id="descricaoProduto" placeholder="100% Algodão com Simbolo Reserva Estampado no Peito">
+                </div>
+
+                <div>
+                    <div>
+                        <label for="corProduto">Cor do Produto: </label>
+                        <input type="text" id="corProduto" placeholder="Branco">
+                    </div>
+
+                    <div>
+                        <label for="materialProduto">Material: </label>
+                        <input type="text" id="materialProduto" placeholder="Branco">
+                    </div>
+                    
+                    <div>
+                        <label for="categoriaProduto">Categoria do Produto: </label>
+                        <select name="categoriaProduto" id="categoriaProduto">
+                            <optgroup label = "Masculino">
+                                <option value="camisasM">Camisas</option>
+                                <option value="calçasM">Calças</option>
+                                <option value="bermudasM">Bermudas</option>
+                            </optgroup>
+
+                            <optgroup label = "Feminino">
+                                <option value="camisaF">Camisas</option>
+                                <option value="calçasF">Calças</option>
+                                <option value="saiasF">Bermudas</option>
+                            </optgroup>
+                        </select>
+                    </div>
+
+                    <div>
+                        <label for="tamanhoProduto">Tamanho</label>
+                        <select name="tamanhoProduto" id="tamanhoProduto">
+                            <option>P</option>
+                            <option>M</option>
+                            <option>G</option>
+                        </select>        
+                    </div>
+
+                    <div>
+                        <label for="estiloProduto">Estilo</label>
+                        <select name="estiloProduto" id="estiloProduto">
+                            <option>Casual</option>
+                            <option>Formal</option>
+                            <option>Festa</option>
+                            <option>Piscina</option>
+                        </select>        
+                    </div>
+                </div>
+
+                <div>
+                    <label for="coresCombinamProduto">Cores que Combinam: </label>
+                    <input type="text" id="coresCombinamProduto" placeholder="Azul, Verde, Amarelo (separar por vírgula)">
+                </div>
+
+                <div>
+                    <label for="linksSemelhantes">Link de Peças Semelhantes: </label>
+                    <input type="text" id="linksSemelhantes" placeholder="https://www.usereserva.com/polo-piquet-classica0066064/p?skuId=360844">
+                </div>
+
+                <div>
+                    <label for="linksCombinam">Links de Peças Complementares: </label>
+                    <input type="text" id="linksCombinam" placeholder="https://www.usereserva.com/bermuda-casual-pf-iron-continuo0048584/p?skuId=11003">
+                </div>
+
+                <div>
+                    <label class="imagemProduto" tabindex="0">
+                        <input type="file" accept="image/*" id="imagemProduto__input">
+                        <span class="exibeImagem"></span>
+                    </label>
+                </div>
+                
+                <button id="btnCadastro">Cadastrar</button>
+            </div>
+            
+            
+    </main>
+
+    <script src="../js/cadastro.js"></script>
+</body>
+
+
+
+</html>
