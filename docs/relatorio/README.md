@@ -222,11 +222,7 @@ Foi designada a cada membro da equipe um conjunto de tarefas, objetivando uma di
 
 ## Divisão de Papéis
 
-Houveram duas divisões de papéis, uma mais geral aonde o grupo se dividiu entre trabalhar na Documentação do projeto ou no Design Thinking. 
-Assim, a divisão ficou: 
-Documentação - Ana Cristina, Isabella, Arthur e Franklin.
-Design Thinking (Miro) - Lucas e Pedro.
-Slide - Ana e Isabella
+Todos os membros do grupo ficaram responsáveis por integrar sua parte individual (sprint2 e sprint3) para a entrega final. O grupo se juntou e ficou decidido que as pessoas poderiam optar entre o video, powerpoint ou a documentação, para que nenhum membro ficasse sobrecarregado com as tarefas, ou seja, todos fizeram sua parte individual e ainda colaboraram com os demais projetos que foram pedidos.
 
 
 ## Ferramentas
