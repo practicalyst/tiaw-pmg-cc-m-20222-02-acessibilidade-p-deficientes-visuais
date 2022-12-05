@@ -1,0 +1,30 @@
+label {
+    font-size: 30px;
+}
+input{
+    display: none;
+}
+
+nav{
+    padding: 10px;
+}
+
+nav > ul > li{
+    list-style-type: none;
+}
+
+nav > ul > li > a{
+    color: #DCDCDC;     
+    font-size: 18px;
+
+    padding:0px 10px;
+    text-decoration: none;
+}
+
+.card {
+    margin: 15px;
+}
+
+.titulos {
+    padding: 10px;
+}
