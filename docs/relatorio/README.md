@@ -131,10 +131,31 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito                              | Prioridade |
-|------|-----------------------------------------------------|------------|
-|RF-001| Permitir que o usuário consiga fazer compras online |   ALTA     | 
-|RF-002| Garantir um acesso prático é fácil aos usuários     |   ALTA     |
+|ID    | Descrição do Requisito                               | Prioridade |
+|------|------------------------------------------------------|------------|
+|RF-001|	Garantir um acesso prático é fácil aos usuários	    |   ALTA     |
+|RF-002|	Permitir cadastro de clientes	                	    |   ALTA     |
+|RF-003|	Permitir cadastro de roupas 	                      |   ALTA     |
+|RF-004|	Questionário para personalidades              	    |   ALTA     |
+|RF-005|	Navegar por categoria de roupa	              	    |   MÉDIA    |
+|RF-006|	Redirecionar para loja que vende o produto		      |   BAIXA    |
+|RF-007|	Barra de favoritos		                              |   BAIXA    |
+|RF-008|	Extensão para descrever as roupas por meio de áudio |   ALTA     |
+|RF-019|	Pesquisa guiada por voz	                        	  |   ALTA     |
+|RF-010|	Barra de menu		                                    |   ALTA     |
+|RF-011|	Página de exibição dos produtos		                  |   ALTA     |
+|RF-012|	Permitir que o usuário consiga fazer compras online	|   BAIXA    |
+|RF-013|	Redirecionar o usuário para uma página só do produto|   BAIXA    |
+|RF-014|	Permiter adicionar um produto a lista de desejos		|   MÉDIA    |
+|RF-015|	Botão para aumentar a fonte		                      |   ALTA     |
+|RF-016|	Exibir produto automaticamente		                  |   ALTA     |
+|RF-017|	Exibir produto com cores análogas	                  |   MÉDIA    |
+|RF-018|	Exibir produtos com cores complementares	          |   MÉDIA    |
+|RF-019|	Navbar		                                          |   ALTA     |
+|RF-020|	Página de detalhes		                              |   ALTA     |
+|RF-021|	Detalhes		                                        |   MÉDIA    |
+|RF-022|	Navegação usando tecla TAB		                      |   ALTA     |
+
 
 
 ### Requisitos não Funcionais
@@ -143,6 +164,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| Deve pedir permissão para usar o microfone do dispositivo móvel |	BAIXA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
